@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['main_14',['main',['../main_8cpp.html#a06f94d40e970020f9fb9033734ad88a3',1,'main.cpp']]]
+  ['game_51',['Game',['../classPlatformerGame_1_1Game.html#ae030fe8b580ea604b3da2ea7ce250a18',1,'PlatformerGame::Game']]]
 ];
