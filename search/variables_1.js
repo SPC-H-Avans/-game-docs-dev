@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['id_57',['id',['../structSpriteInfo.html#ade70602e8e8f78a8f3dddfaf5c580b01',1,'SpriteInfo']]]
+  ['fullscreen_58',['FULLSCREEN',['../Game_8cpp.html#a10c4ab1c558c3fd96fdc507a16276d2c',1,'Game.cpp']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['rows_61',['rows',['../structSpriteSheetInfo.html#acda4c2cfb8c47a1bc8a1c88ac8130778',1,'SpriteSheetInfo']]]
+  ['path_62',['path',['../structSpriteInfo.html#ab763d3b25095a6cf1058ee858d37e892',1,'SpriteInfo']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['world1_31',['World1',['../classTileConfig.html#aa97419185f5c015ff30cc7f30aebd5aa',1,'TileConfig']]]
+  ['view_5fheight_30',['VIEW_HEIGHT',['../main_8cpp.html#a1117b50fc1a20340daf435b1a013272f',1,'main.cpp']]],
+  ['view_5fwidth_31',['VIEW_WIDTH',['../main_8cpp.html#a8a4319a26d792cad45f64f13d8f65b25',1,'main.cpp']]]
 ];

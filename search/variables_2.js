@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['numberinsheet_58',['numberInSheet',['../structSpriteInfo.html#ada7dc73a67b53a6b6f9dc9d776f1f841',1,'SpriteInfo']]]
+  ['id_59',['id',['../structSpriteInfo.html#ade70602e8e8f78a8f3dddfaf5c580b01',1,'SpriteInfo']]]
 ];
