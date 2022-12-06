@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['path_15',['path',['../structSpriteInfo.html#ab763d3b25095a6cf1058ee858d37e892',1,'SpriteInfo']]],
-  ['platformergame_16',['PlatformerGame',['../namespacePlatformerGame.html',1,'']]],
-  ['playerinputbehaviour_17',['PlayerInputBehaviour',['../classPlatformerGame_1_1PlayerInputBehaviour.html',1,'PlatformerGame']]],
-  ['playerinputbehaviour_2ecpp_18',['PlayerInputBehaviour.cpp',['../PlayerInputBehaviour_8cpp.html',1,'']]],
-  ['playerinputbehaviour_2ehpp_19',['PlayerInputBehaviour.hpp',['../PlayerInputBehaviour_8hpp.html',1,'']]]
+  ['objectid_14',['objectId',['../structSpriteInfo.html#aeb68630fda23016720f5385960ff3a71',1,'SpriteInfo']]],
+  ['onupdate_15',['OnUpdate',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#ac31ea3786365294606adee89791a4664',1,'PlatformerGame::DynamicAnimationBehaviour::OnUpdate()'],['../classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7',1,'PlatformerGame::PlayerInputBehaviour::OnUpdate()']]]
 ];
