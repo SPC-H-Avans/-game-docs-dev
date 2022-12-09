@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['sheetpos_40',['SheetPos',['../structSheetPos.html',1,'']]],
-  ['spriteinfo_41',['SpriteInfo',['../structSpriteInfo.html',1,'']]],
-  ['spritesheetinfo_42',['SpriteSheetInfo',['../structSpriteSheetInfo.html',1,'']]]
+  ['playerinputbehaviour_54',['PlayerInputBehaviour',['../classPlatformerGame_1_1PlayerInputBehaviour.html',1,'PlatformerGame']]]
 ];

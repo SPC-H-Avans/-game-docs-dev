@@ -75,14 +75,16 @@ $(function() {
 <div class="textblock"><code>#include &quot;<a class="el" href="Game_8hpp_source.html">Game.hpp</a>&quot;</code><br />
 <code>#include &quot;Builder/GameObjectBuilder.hpp&quot;</code><br />
 <code>#include &quot;Builder/SceneBuilder.hpp&quot;</code><br />
-<code>#include &quot;<a class="el" href="TileConfig_8hpp_source.html">../TileConfig.hpp</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="TileConfig_8hpp_source.html">TileConfig.hpp</a>&quot;</code><br />
 <code>#include &quot;Behaviour/CollisionBehaviour.hpp&quot;</code><br />
-<code>#include &quot;<a class="el" href="PlayerInputBehaviour_8hpp_source.html">../Scripts/PlayerInputBehaviour.hpp</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="DynamicAnimationBehaviour_8hpp_source.html">../Scripts/DynamicAnimationBehaviour.hpp</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="PlayerInputBehaviour_8hpp_source.html">Scripts/PlayerInputBehaviour.hpp</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="DynamicAnimationBehaviour_8hpp_source.html">Scripts/DynamicAnimationBehaviour.hpp</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="NetworkingServer_8hpp_source.html">Networking/NetworkingServer.hpp</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="NetworkingClient_8hpp_source.html">Networking/NetworkingClient.hpp</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for Game.cpp:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="Game_8cpp__incl.svg" width="100%" height="451"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="Game_8cpp__incl.svg" width="100%" height="462"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div><table class="memberdecls">
@@ -93,20 +95,52 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a10c4ab1c558c3fd96fdc507a16276d2c"><td class="memItemLeft" align="right" valign="top">const bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Game_8cpp.html#a10c4ab1c558c3fd96fdc507a16276d2c">FULLSCREEN</a> = true</td></tr>
-<tr class="separator:a10c4ab1c558c3fd96fdc507a16276d2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc0d6eb5c09b626ddb38a42ddcbf50dd"><td class="memItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Game_8cpp.html#afc0d6eb5c09b626ddb38a42ddcbf50dd">FULLSCREEN</a> = true</td></tr>
+<tr class="separator:afc0d6eb5c09b626ddb38a42ddcbf50dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83c22bfda2eee0c7d7b2651b1c387815"><td class="memItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Game_8cpp.html#a83c22bfda2eee0c7d7b2651b1c387815">LOGGING</a> = true</td></tr>
+<tr class="separator:a83c22bfda2eee0c7d7b2651b1c387815"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a10c4ab1c558c3fd96fdc507a16276d2c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a10c4ab1c558c3fd96fdc507a16276d2c">&#9670;&nbsp;</a></span>FULLSCREEN</h2>
+<a id="afc0d6eb5c09b626ddb38a42ddcbf50dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc0d6eb5c09b626ddb38a42ddcbf50dd">&#9670;&nbsp;</a></span>FULLSCREEN</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const bool FULLSCREEN = true</td>
+          <td class="memname">constexpr bool FULLSCREEN = true</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a83c22bfda2eee0c7d7b2651b1c387815"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83c22bfda2eee0c7d7b2651b1c387815">&#9670;&nbsp;</a></span>LOGGING</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr bool LOGGING = true</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>

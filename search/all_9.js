@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['path_16',['path',['../structSpriteInfo.html#ab763d3b25095a6cf1058ee858d37e892',1,'SpriteInfo']]],
-  ['platformergame_17',['PlatformerGame',['../namespacePlatformerGame.html',1,'']]],
-  ['playerinputbehaviour_18',['PlayerInputBehaviour',['../classPlatformerGame_1_1PlayerInputBehaviour.html',1,'PlatformerGame']]],
-  ['playerinputbehaviour_2ecpp_19',['PlayerInputBehaviour.cpp',['../PlayerInputBehaviour_8cpp.html',1,'']]],
-  ['playerinputbehaviour_2ehpp_20',['PlayerInputBehaviour.hpp',['../PlayerInputBehaviour_8hpp.html',1,'']]]
+  ['networkingclient_17',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#ab66fbd13d2e0d61af9619c11ecc0eeab',1,'PlatformerGame::NetworkingClient::NetworkingClient()'],['../classPlatformerGame_1_1NetworkingClient.html',1,'PlatformerGame::NetworkingClient']]],
+  ['networkingclient_2ecpp_18',['NetworkingClient.cpp',['../NetworkingClient_8cpp.html',1,'']]],
+  ['networkingclient_2ehpp_19',['NetworkingClient.hpp',['../NetworkingClient_8hpp.html',1,'']]],
+  ['networkingserver_20',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#aaa1221315e4118084ab8fc2f5096ec35',1,'PlatformerGame::NetworkingServer::NetworkingServer()'],['../classPlatformerGame_1_1NetworkingServer.html',1,'PlatformerGame::NetworkingServer']]],
+  ['networkingserver_2ecpp_21',['NetworkingServer.cpp',['../NetworkingServer_8cpp.html',1,'']]],
+  ['networkingserver_2ehpp_22',['NetworkingServer.hpp',['../NetworkingServer_8hpp.html',1,'']]],
+  ['numberinsheet_23',['numberInSheet',['../structSpriteInfo.html#ada7dc73a67b53a6b6f9dc9d776f1f841',1,'SpriteInfo']]]
 ];

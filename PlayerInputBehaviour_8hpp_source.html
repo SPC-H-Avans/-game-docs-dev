@@ -73,21 +73,29 @@ $(function() {
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define PLATFORMER_ENGINE_PLAYERINPUTBEHAVIOUR_HPP</span></div>
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160; </div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;BehaviourScript.hpp&quot;</span></div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespacePlatformerGame.html">PlatformerGame</a> {</div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;boost/serialization/access.hpp&gt;</span></div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;boost/serialization/export.hpp&gt;</span></div>
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160; </div>
-<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="classPlatformerGame_1_1PlayerInputBehaviour.html">    8</a></span>&#160;    <span class="keyword">class </span><a class="code" href="classPlatformerGame_1_1PlayerInputBehaviour.html">PlayerInputBehaviour</a> : <span class="keyword">public</span> spic::BehaviourScript {</div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7">OnUpdate</a>() <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    };</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;}  <span class="comment">// namespace PlatformerGame</span></div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//PLATFORMER_ENGINE_PLAYERINPUTBEHAVIOUR_HPP</span></div>
-<div class="ttc" id="aclassPlatformerGame_1_1PlayerInputBehaviour_html"><div class="ttname"><a href="classPlatformerGame_1_1PlayerInputBehaviour.html">PlatformerGame::PlayerInputBehaviour</a></div><div class="ttdef"><b>Definition:</b> PlayerInputBehaviour.hpp:8</div></div>
-<div class="ttc" id="aclassPlatformerGame_1_1PlayerInputBehaviour_html_a692b05b64fdc08c62ef26ff3861efdc7"><div class="ttname"><a href="classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7">PlatformerGame::PlayerInputBehaviour::OnUpdate</a></div><div class="ttdeci">void OnUpdate() override</div><div class="ttdef"><b>Definition:</b> PlayerInputBehaviour.cpp:12</div></div>
-<div class="ttc" id="anamespacePlatformerGame_html"><div class="ttname"><a href="namespacePlatformerGame.html">PlatformerGame</a></div><div class="ttdef"><b>Definition:</b> Game.cpp:11</div></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespacePlatformerGame.html">PlatformerGame</a> {</div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160; </div>
+<div class="line"><a name="l00010"></a><span class="lineno"><a class="line" href="classPlatformerGame_1_1PlayerInputBehaviour.html">   10</a></span>&#160;    <span class="keyword">class </span><a class="code" href="classPlatformerGame_1_1PlayerInputBehaviour.html">PlayerInputBehaviour</a> : <span class="keyword">public</span> spic::BehaviourScript {</div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;        <span class="keyword">template</span>&lt;<span class="keyword">class</span> Archive&gt;</div>
+<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="classPlatformerGame_1_1PlayerInputBehaviour.html#a323bc396b18ed9d1a28e6c00663f7a1e">   13</a></span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1PlayerInputBehaviour.html#a323bc396b18ed9d1a28e6c00663f7a1e">serialize</a>(Archive &amp;ar, <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> version) {</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;            ar &amp; boost::serialization::base_object&lt;BehaviourScript, PlayerInputBehaviour&gt;(*<span class="keyword">this</span>);</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;            boost::serialization::void_cast_register&lt;PlayerInputBehaviour, BehaviourScript&gt;();</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;        }</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7">OnUpdate</a>() <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    };</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;}  <span class="comment">// namespace PlatformerGame</span></div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160; </div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//PLATFORMER_ENGINE_PLAYERINPUTBEHAVIOUR_HPP</span></div>
+<div class="ttc" id="aclassPlatformerGame_1_1PlayerInputBehaviour_html"><div class="ttname"><a href="classPlatformerGame_1_1PlayerInputBehaviour.html">PlatformerGame::PlayerInputBehaviour</a></div><div class="ttdef"><b>Definition:</b> PlayerInputBehaviour.hpp:10</div></div>
+<div class="ttc" id="aclassPlatformerGame_1_1PlayerInputBehaviour_html_a323bc396b18ed9d1a28e6c00663f7a1e"><div class="ttname"><a href="classPlatformerGame_1_1PlayerInputBehaviour.html#a323bc396b18ed9d1a28e6c00663f7a1e">PlatformerGame::PlayerInputBehaviour::serialize</a></div><div class="ttdeci">void serialize(Archive &amp;ar, unsigned int version)</div><div class="ttdef"><b>Definition:</b> PlayerInputBehaviour.hpp:13</div></div>
+<div class="ttc" id="aclassPlatformerGame_1_1PlayerInputBehaviour_html_a692b05b64fdc08c62ef26ff3861efdc7"><div class="ttname"><a href="classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7">PlatformerGame::PlayerInputBehaviour::OnUpdate</a></div><div class="ttdeci">void OnUpdate() override</div><div class="ttdef"><b>Definition:</b> PlayerInputBehaviour.cpp:13</div></div>
+<div class="ttc" id="anamespacePlatformerGame_html"><div class="ttname"><a href="namespacePlatformerGame.html">PlatformerGame</a></div><div class="ttdef"><b>Definition:</b> Game.cpp:14</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

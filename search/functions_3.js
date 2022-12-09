@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['onupdate_57',['OnUpdate',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#ac31ea3786365294606adee89791a4664',1,'PlatformerGame::DynamicAnimationBehaviour::OnUpdate()'],['../classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7',1,'PlatformerGame::PlayerInputBehaviour::OnUpdate()']]]
+  ['game_76',['Game',['../classPlatformerGame_1_1Game.html#ae030fe8b580ea604b3da2ea7ce250a18',1,'PlatformerGame::Game']]]
 ];
