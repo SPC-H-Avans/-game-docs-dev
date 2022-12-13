@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['columns_1',['columns',['../structSpriteSheetInfo.html#a997f38cc04c42b9c8215c0ad8ded4ba1',1,'SpriteSheetInfo']]],
-  ['connecttoserver_2',['ConnectToServer',['../classPlatformerGame_1_1NetworkingClient.html#ac71d8ff6b8c89db5f75c36bf0691c2cf',1,'PlatformerGame::NetworkingClient']]],
-  ['createserver_3',['CreateServer',['../classPlatformerGame_1_1NetworkingServer.html#ad7429b08636272a910c2a3b58160b8db',1,'PlatformerGame::NetworkingServer']]]
+  ['boost_5fclass_5fexport_1',['BOOST_CLASS_EXPORT',['../DynamicAnimationBehaviour_8cpp.html#a61acdf232c06a3f888efc97959939678',1,'BOOST_CLASS_EXPORT(PlatformerGame::DynamicAnimationBehaviour):&#160;DynamicAnimationBehaviour.cpp'],['../PlayerInputBehaviour_8cpp.html#a0b910222e12009d4706cf7c3c4153bff',1,'BOOST_CLASS_EXPORT(PlatformerGame::PlayerInputBehaviour):&#160;PlayerInputBehaviour.cpp']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['main_77',['main',['../main_8cpp.html#a06f94d40e970020f9fb9033734ad88a3',1,'main.cpp']]],
-  ['map1_78',['Map1',['../classTileConfig.html#a059ad8a0964032866316521da44700d0',1,'TileConfig']]]
+  ['game_91',['Game',['../classPlatformerGame_1_1Game.html#ae030fe8b580ea604b3da2ea7ce250a18',1,'PlatformerGame::Game']]]
 ];

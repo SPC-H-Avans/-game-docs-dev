@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['_7enetworkingclient_48',['~NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#aef5ce0bf1215eabaffd6443a89bee4eb',1,'PlatformerGame::NetworkingClient']]],
-  ['_7enetworkingserver_49',['~NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#a461a197fe0ca5de86cca42b1c64daaa6',1,'PlatformerGame::NetworkingServer']]]
+  ['y_55',['y',['../structSheetPos.html#a4f35411213a363f3fe22425f671aa587',1,'SheetPos']]]
 ];

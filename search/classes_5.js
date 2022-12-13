@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tileconfig_58',['TileConfig',['../classTileConfig.html',1,'']]]
+  ['playerinputbehaviour_64',['PlayerInputBehaviour',['../classPlatformerGame_1_1PlayerInputBehaviour.html',1,'PlatformerGame']]]
 ];

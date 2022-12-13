@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['dynamicanimationbehaviour_75',['DynamicAnimationBehaviour',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aa67b70934a4ff730a4ba16a41753c93a',1,'PlatformerGame::DynamicAnimationBehaviour::DynamicAnimationBehaviour(platformer_engine::AnimatedSprite idleSprite, platformer_engine::AnimatedSprite walkSprite, platformer_engine::AnimatedSprite jumpSprite)'],['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aef5afae0eb88b99203aa7fd7b7432243',1,'PlatformerGame::DynamicAnimationBehaviour::DynamicAnimationBehaviour()']]]
+  ['connecttoserver_88',['ConnectToServer',['../classPlatformerGame_1_1NetworkingClient.html#ac71d8ff6b8c89db5f75c36bf0691c2cf',1,'PlatformerGame::NetworkingClient']]],
+  ['createserver_89',['CreateServer',['../classPlatformerGame_1_1NetworkingServer.html#a5794ed0bbfd0eb72638b87e71d8b0fc2',1,'PlatformerGame::NetworkingServer']]]
 ];

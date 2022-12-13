@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['dynamicanimationbehaviour_4',['DynamicAnimationBehaviour',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aa67b70934a4ff730a4ba16a41753c93a',1,'PlatformerGame::DynamicAnimationBehaviour::DynamicAnimationBehaviour(platformer_engine::AnimatedSprite idleSprite, platformer_engine::AnimatedSprite walkSprite, platformer_engine::AnimatedSprite jumpSprite)'],['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aef5afae0eb88b99203aa7fd7b7432243',1,'PlatformerGame::DynamicAnimationBehaviour::DynamicAnimationBehaviour()'],['../classPlatformerGame_1_1DynamicAnimationBehaviour.html',1,'PlatformerGame::DynamicAnimationBehaviour']]],
-  ['dynamicanimationbehaviour_2ecpp_5',['DynamicAnimationBehaviour.cpp',['../DynamicAnimationBehaviour_8cpp.html',1,'']]],
-  ['dynamicanimationbehaviour_2ehpp_6',['DynamicAnimationBehaviour.hpp',['../DynamicAnimationBehaviour_8hpp.html',1,'']]]
+  ['columns_2',['columns',['../structSpriteSheetInfo.html#a997f38cc04c42b9c8215c0ad8ded4ba1',1,'SpriteSheetInfo']]],
+  ['connecttoserver_3',['ConnectToServer',['../classPlatformerGame_1_1NetworkingClient.html#ac71d8ff6b8c89db5f75c36bf0691c2cf',1,'PlatformerGame::NetworkingClient']]],
+  ['createserver_4',['CreateServer',['../classPlatformerGame_1_1NetworkingServer.html#a5794ed0bbfd0eb72638b87e71d8b0fc2',1,'PlatformerGame::NetworkingServer']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['onupdate_81',['OnUpdate',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#ac31ea3786365294606adee89791a4664',1,'PlatformerGame::DynamicAnimationBehaviour::OnUpdate()'],['../classPlatformerGame_1_1PlayerInputBehaviour.html#a692b05b64fdc08c62ef26ff3861efdc7',1,'PlatformerGame::PlayerInputBehaviour::OnUpdate()']]]
+  ['networkingclient_94',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#ab66fbd13d2e0d61af9619c11ecc0eeab',1,'PlatformerGame::NetworkingClient']]],
+  ['networkingserver_95',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#aaa1221315e4118084ab8fc2f5096ec35',1,'PlatformerGame::NetworkingServer']]]
 ];

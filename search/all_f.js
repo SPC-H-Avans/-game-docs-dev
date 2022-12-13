@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['velocity_5fmargin_42',['VELOCITY_MARGIN',['../DynamicAnimationBehaviour_8cpp.html#a9be28a8b9da3cb69f0f3a913985124c2',1,'DynamicAnimationBehaviour.cpp']]],
-  ['view_5fheight_43',['VIEW_HEIGHT',['../main_8cpp.html#a1117b50fc1a20340daf435b1a013272f',1,'main.cpp']]],
-  ['view_5fwidth_44',['VIEW_WIDTH',['../main_8cpp.html#a8a4319a26d792cad45f64f13d8f65b25',1,'main.cpp']]]
+  ['tileconfig_45',['TileConfig',['../classTileConfig.html',1,'']]],
+  ['tileconfig_2ehpp_46',['TileConfig.hpp',['../TileConfig_8hpp.html',1,'']]],
+  ['tileheight_47',['tileHeight',['../structSpriteSheetInfo.html#ad30d022456adf1d25bc4d42734cd72b5',1,'SpriteSheetInfo']]],
+  ['tilesize_48',['TILESIZE',['../TileConfig_8hpp.html#ad68df360ff9a3da33f421efed5dbc4be',1,'TileConfig.hpp']]],
+  ['tilewidth_49',['tileWidth',['../structSpriteSheetInfo.html#a5d97bba492d8f0e5444e22a26741cdb5',1,'SpriteSheetInfo']]]
 ];

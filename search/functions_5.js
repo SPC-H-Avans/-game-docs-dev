@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['networkingclient_79',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#ab66fbd13d2e0d61af9619c11ecc0eeab',1,'PlatformerGame::NetworkingClient']]],
-  ['networkingserver_80',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#aaa1221315e4118084ab8fc2f5096ec35',1,'PlatformerGame::NetworkingServer']]]
+  ['main_92',['main',['../main_8cpp.html#a06f94d40e970020f9fb9033734ad88a3',1,'main.cpp']]],
+  ['map1_93',['Map1',['../classTileConfig.html#a059ad8a0964032866316521da44700d0',1,'TileConfig']]]
 ];

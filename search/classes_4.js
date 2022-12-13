@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['sheetpos_55',['SheetPos',['../structSheetPos.html',1,'']]],
-  ['spriteinfo_56',['SpriteInfo',['../structSpriteInfo.html',1,'']]],
-  ['spritesheetinfo_57',['SpriteSheetInfo',['../structSpriteSheetInfo.html',1,'']]]
+  ['networkingclient_62',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html',1,'PlatformerGame']]],
+  ['networkingserver_63',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html',1,'PlatformerGame']]]
 ];
