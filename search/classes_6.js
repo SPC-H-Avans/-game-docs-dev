@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['playerinputbehaviour_76',['PlayerInputBehaviour',['../classPlatformerGame_1_1PlayerInputBehaviour.html',1,'PlatformerGame']]]
+  ['networkingclient_84',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html',1,'PlatformerGame']]],
+  ['networkingserver_85',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html',1,'PlatformerGame']]]
 ];

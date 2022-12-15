@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mariobehaviour_73',['MarioBehaviour',['../classPlatformerGame_1_1MarioBehaviour.html',1,'PlatformerGame']]]
+  ['level1_82',['Level1',['../classLevel1.html',1,'']]]
 ];

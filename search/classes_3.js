@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['level1_72',['Level1',['../classLevel1.html',1,'']]]
+  ['game_80',['Game',['../classPlatformerGame_1_1Game.html',1,'PlatformerGame']]],
+  ['gameoverscene_81',['GameOverScene',['../classGameOverScene.html',1,'']]]
 ];
