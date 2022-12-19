@@ -1,10 +1,11 @@
 <map id="src/UI/CoinCounter.hpp" name="src/UI/CoinCounter.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="217,5,375,32"/>
-<area shape="rect" id="node2" href="$CoinBehaviour_8hpp.html" title=" " alt="" coords="97,80,295,107"/>
-<area shape="rect" id="node8" href="$CoinCounter_8cpp.html" title=" " alt="" coords="319,80,476,107"/>
-<area shape="rect" id="node3" href="$CoinBehaviour_8cpp.html" title=" " alt="" coords="5,155,203,181"/>
-<area shape="rect" id="node4" href="$TileConfig_8hpp.html" title=" " alt="" coords="227,155,352,181"/>
-<area shape="rect" id="node5" href="$Game_8cpp.html" title=" " alt="" coords="27,237,170,263"/>
-<area shape="rect" id="node6" href="$Level1_8cpp.html" title=" " alt="" coords="195,237,384,263"/>
-<area shape="rect" id="node7" href="$NetworkingClient_8cpp.html" title=" " alt="" coords="409,229,589,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="301,5,458,32"/>
+<area shape="rect" id="node2" href="$CoinBehaviour_8hpp.html" title=" " alt="" coords="145,80,342,107"/>
+<area shape="rect" id="node4" href="$TileConfig_8hpp.html" title=" " alt="" coords="317,155,442,181"/>
+<area shape="rect" id="node9" href="$CoinCounter_8cpp.html" title=" " alt="" coords="417,80,574,107"/>
+<area shape="rect" id="node3" href="$CoinBehaviour_8cpp.html" title=" " alt="" coords="95,155,293,181"/>
+<area shape="rect" id="node5" href="$Game_8cpp.html" title=" " alt="" coords="5,237,148,263"/>
+<area shape="rect" id="node6" href="$Level1_8cpp.html" title=" " alt="" coords="173,237,362,263"/>
+<area shape="rect" id="node7" href="$MainMenu_8cpp.html" title=" " alt="" coords="386,237,597,263"/>
+<area shape="rect" id="node8" href="$NetworkingClient_8cpp.html" title=" " alt="" coords="621,229,801,271"/>
 </map>
