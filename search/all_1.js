@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['boost_5fclass_5fexport_2',['BOOST_CLASS_EXPORT',['../CoinBehaviour_8cpp.html#a5d0e1b6d08eadf98ad222e75553b175f',1,'BOOST_CLASS_EXPORT(PlatformerGame::CoinBehaviour):&#160;CoinBehaviour.cpp'],['../DynamicAnimationBehaviour_8cpp.html#a61acdf232c06a3f888efc97959939678',1,'BOOST_CLASS_EXPORT(PlatformerGame::DynamicAnimationBehaviour):&#160;DynamicAnimationBehaviour.cpp'],['../PlayerInputBehaviour_8cpp.html#a0b910222e12009d4706cf7c3c4153bff',1,'BOOST_CLASS_EXPORT(PlatformerGame::PlayerInputBehaviour):&#160;PlayerInputBehaviour.cpp'],['../CoinCounter_8cpp.html#aed1487e0d9e6a6ed2562908ed030cbfa',1,'BOOST_CLASS_EXPORT(PlatformerGame::CoinCounter):&#160;CoinCounter.cpp']]]
+  ['addcoin_4',['AddCoin',['../classPlatformerGame_1_1CoinCounter.html#a13875df073853a149798b4cec3b1ab56',1,'PlatformerGame::CoinCounter']]],
+  ['addtoengine_5',['AddToEngine',['../classGameOverScene.html#a50fdb1ca94554393e9068706abe1bc94',1,'GameOverScene::AddToEngine()'],['../classLevel1.html#abc10be07be048e54ebf1c658a9573819',1,'Level1::AddToEngine()']]],
+  ['animate_6',['Animate',['../classPlatformerGame_1_1MarioState.html#a5de3295f589eba843dc8ed2fed0e3f4a',1,'PlatformerGame::MarioState::Animate()'],['../classPlatformerGame_1_1SmallMarioState.html#a08f121c306694b0f6de2acd253f4faa7',1,'PlatformerGame::SmallMarioState::Animate()'],['../classPlatformerGame_1_1StarMarioState.html#a0dc2626bc2469dae06fae2de97a87b03',1,'PlatformerGame::StarMarioState::Animate()']]]
 ];

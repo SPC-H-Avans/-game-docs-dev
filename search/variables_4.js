@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['logging_145',['LOGGING',['../Game_8cpp.html#a83c22bfda2eee0c7d7b2651b1c387815',1,'Game.cpp']]]
+  ['jump_5fforce_176',['JUMP_FORCE',['../SmallMarioState_8cpp.html#a95e077c845bfa63b8f0763c8feeb3b27',1,'JUMP_FORCE():&#160;SmallMarioState.cpp'],['../StarMarioState_8cpp.html#a95e077c845bfa63b8f0763c8feeb3b27',1,'JUMP_FORCE():&#160;StarMarioState.cpp']]]
 ];

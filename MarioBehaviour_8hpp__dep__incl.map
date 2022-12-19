@@ -1,5 +1,7 @@
 <map id="src/Scripts/MarioBehaviour.hpp" name="src/Scripts/MarioBehaviour.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="108,5,311,32"/>
-<area shape="rect" id="node2" href="$Level1_8cpp.html" title=" " alt="" coords="5,80,195,107"/>
-<area shape="rect" id="node3" href="$MarioBehaviour_8cpp.html" title=" " alt="" coords="219,80,421,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="316,5,519,32"/>
+<area shape="rect" id="node2" href="$Level1_8cpp.html" title=" " alt="" coords="5,87,195,114"/>
+<area shape="rect" id="node3" href="$NetworkingClient_8cpp.html" title=" " alt="" coords="219,80,399,121"/>
+<area shape="rect" id="node4" href="$MarioBehaviour_8cpp.html" title=" " alt="" coords="424,87,627,114"/>
+<area shape="rect" id="node5" href="$StarBehaviour_8cpp.html" title=" " alt="" coords="651,87,845,114"/>
 </map>

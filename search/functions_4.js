@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['game_127',['Game',['../classPlatformerGame_1_1Game.html#ae030fe8b580ea604b3da2ea7ce250a18',1,'PlatformerGame::Game']]],
-  ['getuiobject_128',['GetUIObject',['../classPlatformerGame_1_1CoinCounter.html#aa3bb5fbf47d798bd6eb68c321c888bae',1,'PlatformerGame::CoinCounter']]]
+  ['main_151',['main',['../main_8cpp.html#a06f94d40e970020f9fb9033734ad88a3',1,'main.cpp']]],
+  ['map1_152',['Map1',['../classTileConfig.html#a059ad8a0964032866316521da44700d0',1,'TileConfig']]]
 ];

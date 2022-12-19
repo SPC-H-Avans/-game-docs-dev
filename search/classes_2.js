@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['flagbehaviour_79',['FlagBehaviour',['../classPlatformerGame_1_1FlagBehaviour.html',1,'PlatformerGame']]]
+  ['game_95',['Game',['../classPlatformerGame_1_1Game.html',1,'PlatformerGame']]],
+  ['gameoverscene_96',['GameOverScene',['../classGameOverScene.html',1,'']]]
 ];

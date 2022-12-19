@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['addcoin_0',['AddCoin',['../classPlatformerGame_1_1CoinCounter.html#a13875df073853a149798b4cec3b1ab56',1,'PlatformerGame::CoinCounter']]],
-  ['addtoengine_1',['AddToEngine',['../classGameOverScene.html#a50fdb1ca94554393e9068706abe1bc94',1,'GameOverScene::AddToEngine()'],['../classLevel1.html#abc10be07be048e54ebf1c658a9573819',1,'Level1::AddToEngine()']]]
+  ['_5fidlesprite_0',['_idleSprite',['../classPlatformerGame_1_1MarioState.html#ad0af4f707e8c692c16e47668542643df',1,'PlatformerGame::MarioState']]],
+  ['_5fjumpsprite_1',['_jumpSprite',['../classPlatformerGame_1_1MarioState.html#affd9737ad181e2c310f164a48ae82eaa',1,'PlatformerGame::MarioState']]],
+  ['_5flastvelocity_2',['_lastVelocity',['../classPlatformerGame_1_1MarioState.html#a0ae6d79415aca4e8b21dd638ddd17e41',1,'PlatformerGame::MarioState']]],
+  ['_5fwalksprite_3',['_walkSprite',['../classPlatformerGame_1_1MarioState.html#a3ca90cc0835cf15de5b915304a9017e9',1,'PlatformerGame::MarioState']]]
 ];

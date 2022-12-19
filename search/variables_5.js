@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['numberinsheet_146',['numberInSheet',['../structSpriteInfo.html#ada7dc73a67b53a6b6f9dc9d776f1f841',1,'SpriteInfo']]]
+  ['logging_177',['LOGGING',['../Game_8cpp.html#a83c22bfda2eee0c7d7b2651b1c387815',1,'Game.cpp']]]
 ];

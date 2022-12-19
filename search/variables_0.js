@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['columns_141',['columns',['../structSpriteSheetInfo.html#a997f38cc04c42b9c8215c0ad8ded4ba1',1,'SpriteSheetInfo']]]
+  ['_5fidlesprite_169',['_idleSprite',['../classPlatformerGame_1_1MarioState.html#ad0af4f707e8c692c16e47668542643df',1,'PlatformerGame::MarioState']]],
+  ['_5fjumpsprite_170',['_jumpSprite',['../classPlatformerGame_1_1MarioState.html#affd9737ad181e2c310f164a48ae82eaa',1,'PlatformerGame::MarioState']]],
+  ['_5flastvelocity_171',['_lastVelocity',['../classPlatformerGame_1_1MarioState.html#a0ae6d79415aca4e8b21dd638ddd17e41',1,'PlatformerGame::MarioState']]],
+  ['_5fwalksprite_172',['_walkSprite',['../classPlatformerGame_1_1MarioState.html#a3ca90cc0835cf15de5b915304a9017e9',1,'PlatformerGame::MarioState']]]
 ];

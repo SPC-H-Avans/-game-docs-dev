@@ -1,6 +1,12 @@
 var searchData=
 [
-  ['dynamicanimationbehaviour_12',['DynamicAnimationBehaviour',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aa67b70934a4ff730a4ba16a41753c93a',1,'PlatformerGame::DynamicAnimationBehaviour::DynamicAnimationBehaviour(platformer_engine::AnimatedSprite idleSprite, platformer_engine::AnimatedSprite walkSprite, platformer_engine::AnimatedSprite jumpSprite)'],['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aef5afae0eb88b99203aa7fd7b7432243',1,'PlatformerGame::DynamicAnimationBehaviour::DynamicAnimationBehaviour()'],['../classPlatformerGame_1_1DynamicAnimationBehaviour.html',1,'PlatformerGame::DynamicAnimationBehaviour']]],
-  ['dynamicanimationbehaviour_2ecpp_13',['DynamicAnimationBehaviour.cpp',['../DynamicAnimationBehaviour_8cpp.html',1,'']]],
-  ['dynamicanimationbehaviour_2ehpp_14',['DynamicAnimationBehaviour.hpp',['../DynamicAnimationBehaviour_8hpp.html',1,'']]]
+  ['coinbehaviour_9',['CoinBehaviour',['../classPlatformerGame_1_1CoinBehaviour.html#aae5183b087e9318fc111a8e6e8e62c70',1,'PlatformerGame::CoinBehaviour::CoinBehaviour()=default'],['../classPlatformerGame_1_1CoinBehaviour.html#a96e7e5fb0e072ab516e778a61abaec68',1,'PlatformerGame::CoinBehaviour::CoinBehaviour(std::shared_ptr&lt; CoinCounter &gt; counter)'],['../classPlatformerGame_1_1CoinBehaviour.html',1,'PlatformerGame::CoinBehaviour']]],
+  ['coinbehaviour_2ecpp_10',['CoinBehaviour.cpp',['../CoinBehaviour_8cpp.html',1,'']]],
+  ['coinbehaviour_2ehpp_11',['CoinBehaviour.hpp',['../CoinBehaviour_8hpp.html',1,'']]],
+  ['coincounter_12',['CoinCounter',['../classPlatformerGame_1_1CoinCounter.html#ab2230b56dd95ed0e9d526d72272781d9',1,'PlatformerGame::CoinCounter::CoinCounter(spic::Transform transform, std::string textId, std::string text, std::string fontPath, int fontSize, spic::Color fontColor, int width, int height)'],['../classPlatformerGame_1_1CoinCounter.html#a4a0a29507e53e38b90418f6f849d7f29',1,'PlatformerGame::CoinCounter::CoinCounter()'],['../classPlatformerGame_1_1CoinCounter.html',1,'PlatformerGame::CoinCounter']]],
+  ['coincounter_2ecpp_13',['CoinCounter.cpp',['../CoinCounter_8cpp.html',1,'']]],
+  ['coincounter_2ehpp_14',['CoinCounter.hpp',['../CoinCounter_8hpp.html',1,'']]],
+  ['columns_15',['columns',['../structSpriteSheetInfo.html#a997f38cc04c42b9c8215c0ad8ded4ba1',1,'SpriteSheetInfo']]],
+  ['connecttoserver_16',['ConnectToServer',['../classPlatformerGame_1_1NetworkingClient.html#ac71d8ff6b8c89db5f75c36bf0691c2cf',1,'PlatformerGame::NetworkingClient']]],
+  ['createserver_17',['CreateServer',['../classPlatformerGame_1_1NetworkingServer.html#a5794ed0bbfd0eb72638b87e71d8b0fc2',1,'PlatformerGame::NetworkingServer']]]
 ];

@@ -1,12 +1,5 @@
 var searchData=
 [
-  ['coinbehaviour_3',['CoinBehaviour',['../classPlatformerGame_1_1CoinBehaviour.html#aae5183b087e9318fc111a8e6e8e62c70',1,'PlatformerGame::CoinBehaviour::CoinBehaviour()=default'],['../classPlatformerGame_1_1CoinBehaviour.html#a96e7e5fb0e072ab516e778a61abaec68',1,'PlatformerGame::CoinBehaviour::CoinBehaviour(std::shared_ptr&lt; CoinCounter &gt; counter)'],['../classPlatformerGame_1_1CoinBehaviour.html',1,'PlatformerGame::CoinBehaviour']]],
-  ['coinbehaviour_2ecpp_4',['CoinBehaviour.cpp',['../CoinBehaviour_8cpp.html',1,'']]],
-  ['coinbehaviour_2ehpp_5',['CoinBehaviour.hpp',['../CoinBehaviour_8hpp.html',1,'']]],
-  ['coincounter_6',['CoinCounter',['../classPlatformerGame_1_1CoinCounter.html#ab2230b56dd95ed0e9d526d72272781d9',1,'PlatformerGame::CoinCounter::CoinCounter(spic::Transform transform, std::string textId, std::string text, std::string fontPath, int fontSize, spic::Color fontColor, int width, int height)'],['../classPlatformerGame_1_1CoinCounter.html#a4a0a29507e53e38b90418f6f849d7f29',1,'PlatformerGame::CoinCounter::CoinCounter()'],['../classPlatformerGame_1_1CoinCounter.html',1,'PlatformerGame::CoinCounter']]],
-  ['coincounter_2ecpp_7',['CoinCounter.cpp',['../CoinCounter_8cpp.html',1,'']]],
-  ['coincounter_2ehpp_8',['CoinCounter.hpp',['../CoinCounter_8hpp.html',1,'']]],
-  ['columns_9',['columns',['../structSpriteSheetInfo.html#a997f38cc04c42b9c8215c0ad8ded4ba1',1,'SpriteSheetInfo']]],
-  ['connecttoserver_10',['ConnectToServer',['../classPlatformerGame_1_1NetworkingClient.html#ac71d8ff6b8c89db5f75c36bf0691c2cf',1,'PlatformerGame::NetworkingClient']]],
-  ['createserver_11',['CreateServer',['../classPlatformerGame_1_1NetworkingServer.html#a5794ed0bbfd0eb72638b87e71d8b0fc2',1,'PlatformerGame::NetworkingServer']]]
+  ['boost_5fclass_5fexport_7',['BOOST_CLASS_EXPORT',['../CoinBehaviour_8cpp.html#a5d0e1b6d08eadf98ad222e75553b175f',1,'BOOST_CLASS_EXPORT(PlatformerGame::CoinBehaviour):&#160;CoinBehaviour.cpp'],['../MarioBehaviour_8cpp.html#a387e32e1a1784f4f232fc656f7b0065c',1,'BOOST_CLASS_EXPORT(PlatformerGame::MarioBehaviour):&#160;MarioBehaviour.cpp'],['../SmallMarioState_8cpp.html#af12bff574a82d73c87be3c6a14f370b1',1,'BOOST_CLASS_EXPORT(PlatformerGame::SmallMarioState):&#160;SmallMarioState.cpp'],['../StarMarioState_8cpp.html#ab80082fb763967efc2955b0b53db4a4e',1,'BOOST_CLASS_EXPORT(PlatformerGame::StarMarioState):&#160;StarMarioState.cpp'],['../StarBehaviour_8cpp.html#ade6cb603f10d5a41f76f8a8047e78abc',1,'BOOST_CLASS_EXPORT(PlatformerGame::StarBehaviour):&#160;StarBehaviour.cpp'],['../CoinCounter_8cpp.html#aed1487e0d9e6a6ed2562908ed030cbfa',1,'BOOST_CLASS_EXPORT(PlatformerGame::CoinCounter):&#160;CoinCounter.cpp']]],
+  ['boost_5fserialization_5fassume_5fabstract_8',['BOOST_SERIALIZATION_ASSUME_ABSTRACT',['../MarioState_8hpp.html#a192ed09724a1aea8f31adb91aa5b5461',1,'MarioState.hpp']]]
 ];

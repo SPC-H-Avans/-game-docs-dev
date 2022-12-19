@@ -80,19 +80,21 @@ $(function() {
 <div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    <span class="keyword">public</span>:</div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;        <span class="keyword">template</span>&lt;<span class="keyword">typename</span> archive&gt;</div>
 <div class="line"><a name="l00011"></a><span class="lineno"><a class="line" href="classPlatformerGame_1_1FlagBehaviour.html#acbc027684caae5d013e6b78fd489d7c6">   11</a></span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1FlagBehaviour.html#acbc027684caae5d013e6b78fd489d7c6">serialize</a>(archive &amp;ar, <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="comment">/*version*/</span>) {</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;        }</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1FlagBehaviour.html#a41a1cde1f975ccfa8b67fd6d15140869">OnTriggerEnter2D</a>(Collision collision) <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    };</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;}  <span class="comment">// namespace PlatformerGame</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;            ar &amp; boost::serialization::base_object&lt;BehaviourScript, FlagBehaviour&gt;(*<span class="keyword">this</span>);</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;            boost::serialization::void_cast_register&lt;FlagBehaviour, BehaviourScript&gt;();</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        }</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1FlagBehaviour.html#a41a1cde1f975ccfa8b67fd6d15140869">OnTriggerEnter2D</a>(Collision collision) <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    };</div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//PLATFORMER_ENGINE_PLAYERINPUTBEHAVIOUR_HPP</span></div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;}  <span class="comment">// namespace PlatformerGame</span></div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160; </div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//PLATFORMER_ENGINE_FLAGBEHAVIOUR_HPP</span></div>
 <div class="ttc" id="aclassPlatformerGame_1_1FlagBehaviour_html"><div class="ttname"><a href="classPlatformerGame_1_1FlagBehaviour.html">PlatformerGame::FlagBehaviour</a></div><div class="ttdef"><b>Definition:</b> FlagBehaviour.hpp:8</div></div>
 <div class="ttc" id="aclassPlatformerGame_1_1FlagBehaviour_html_a41a1cde1f975ccfa8b67fd6d15140869"><div class="ttname"><a href="classPlatformerGame_1_1FlagBehaviour.html#a41a1cde1f975ccfa8b67fd6d15140869">PlatformerGame::FlagBehaviour::OnTriggerEnter2D</a></div><div class="ttdeci">void OnTriggerEnter2D(Collision collision) override</div><div class="ttdef"><b>Definition:</b> FlagBehaviour.cpp:8</div></div>
 <div class="ttc" id="aclassPlatformerGame_1_1FlagBehaviour_html_acbc027684caae5d013e6b78fd489d7c6"><div class="ttname"><a href="classPlatformerGame_1_1FlagBehaviour.html#acbc027684caae5d013e6b78fd489d7c6">PlatformerGame::FlagBehaviour::serialize</a></div><div class="ttdeci">void serialize(archive &amp;ar, const unsigned)</div><div class="ttdef"><b>Definition:</b> FlagBehaviour.hpp:11</div></div>
-<div class="ttc" id="anamespacePlatformerGame_html"><div class="ttname"><a href="namespacePlatformerGame.html">PlatformerGame</a></div><div class="ttdef"><b>Definition:</b> Game.cpp:16</div></div>
+<div class="ttc" id="anamespacePlatformerGame_html"><div class="ttname"><a href="namespacePlatformerGame.html">PlatformerGame</a></div><div class="ttdef"><b>Definition:</b> Game.cpp:14</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

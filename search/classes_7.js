@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['playerinputbehaviour_86',['PlayerInputBehaviour',['../classPlatformerGame_1_1PlayerInputBehaviour.html',1,'PlatformerGame']]]
+  ['tileconfig_108',['TileConfig',['../classTileConfig.html',1,'']]],
+  ['timerbehaviour_109',['TimerBehaviour',['../classPlatformerGame_1_1TimerBehaviour.html',1,'PlatformerGame']]]
 ];

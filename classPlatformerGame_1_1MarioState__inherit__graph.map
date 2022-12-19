@@ -1,0 +1,5 @@
+<map id="PlatformerGame::MarioState" name="PlatformerGame::MarioState">
+<area shape="rect" id="node1" title=" " alt="" coords="113,5,311,347"/>
+<area shape="rect" id="node2" href="$classPlatformerGame_1_1SmallMarioState.html" title=" " alt="" coords="5,395,200,648"/>
+<area shape="rect" id="node3" href="$classPlatformerGame_1_1StarMarioState.html" title=" " alt="" coords="224,395,419,648"/>
+</map>

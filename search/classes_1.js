@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['dynamicanimationbehaviour_78',['DynamicAnimationBehaviour',['../classPlatformerGame_1_1DynamicAnimationBehaviour.html',1,'PlatformerGame']]]
+  ['flagbehaviour_94',['FlagBehaviour',['../classPlatformerGame_1_1FlagBehaviour.html',1,'PlatformerGame']]]
 ];

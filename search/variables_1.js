@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fullscreen_142',['FULLSCREEN',['../Game_8cpp.html#afc0d6eb5c09b626ddb38a42ddcbf50dd',1,'Game.cpp']]]
+  ['columns_173',['columns',['../structSpriteSheetInfo.html#a997f38cc04c42b9c8215c0ad8ded4ba1',1,'SpriteSheetInfo']]]
 ];
