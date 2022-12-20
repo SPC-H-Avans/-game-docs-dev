@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['objectid_185',['objectId',['../structSpriteInfo.html#aeb68630fda23016720f5385960ff3a71',1,'SpriteInfo']]]
+  ['logging_205',['LOGGING',['../Game_8cpp.html#a83c22bfda2eee0c7d7b2651b1c387815',1,'Game.cpp']]]
 ];

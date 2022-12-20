@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jump_5fforce_30',['JUMP_FORCE',['../SmallMarioState_8cpp.html#a95e077c845bfa63b8f0763c8feeb3b27',1,'JUMP_FORCE():&#160;SmallMarioState.cpp'],['../StarMarioState_8cpp.html#a95e077c845bfa63b8f0763c8feeb3b27',1,'JUMP_FORCE():&#160;StarMarioState.cpp']]]
+  ['horizontal_5fflip_5fsuffix_33',['HORIZONTAL_FLIP_SUFFIX',['../namespaceconstants.html#a31dc68119d195b4f9fd843ce217884b5',1,'constants']]]
 ];

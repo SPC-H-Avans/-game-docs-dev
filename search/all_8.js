@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['level1_31',['Level1',['../classLevel1.html',1,'']]],
-  ['level1_2ecpp_32',['Level1.cpp',['../Level1_8cpp.html',1,'']]],
-  ['level1_2ehpp_33',['Level1.hpp',['../Level1_8hpp.html',1,'']]],
-  ['logging_34',['LOGGING',['../Game_8cpp.html#a83c22bfda2eee0c7d7b2651b1c387815',1,'Game.cpp']]]
+  ['id_34',['id',['../structSpriteInfo.html#ade70602e8e8f78a8f3dddfaf5c580b01',1,'SpriteInfo']]],
+  ['idle_5fsprite_5fid_35',['IDLE_SPRITE_ID',['../namespaceconstants.html#ac87d0278d55363c8134a0e0cc6f4e9ad',1,'constants']]],
+  ['idle_5fstar_5fsprite_5fid_36',['IDLE_STAR_SPRITE_ID',['../namespaceconstants.html#a82de805b28974dd851b2bc1b234220f0',1,'constants']]]
 ];

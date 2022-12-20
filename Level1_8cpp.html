@@ -65,6 +65,9 @@ $(function() {
 </div>
 </div><!-- top -->
 <div class="header">
+  <div class="summary">
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">Level1.cpp File Reference</div>  </div>
 </div><!--header-->
@@ -77,13 +80,157 @@ $(function() {
 <code>#include &quot;UI/FPSCounter.hpp&quot;</code><br />
 <code>#include &quot;AudioSource.hpp&quot;</code><br />
 <code>#include &quot;<a class="el" href="MarioBehaviour_8hpp_source.html">Scripts/MarioBehaviour.hpp</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="Sprites_8hpp_source.html">constants/Sprites.hpp</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for Level1.cpp:</div>
 <div class="dyncontent">
 <div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="Level1_8cpp__incl.svg" width="100%" height="585"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
-</div></div><!-- contents -->
+</div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a8a947a865e33117b7dfc66b683592ed8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Level1_8cpp.html#a8a947a865e33117b7dfc66b683592ed8">LoadAnimatedSprite</a> (std::vector&lt; platformer_engine::AnimatedSprite &gt; &amp;spriteList, std::string spriteId, std::string path, int spriteWidth, int spriteHeight, int frameCount)</td></tr>
+<tr class="separator:a8a947a865e33117b7dfc66b683592ed8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a1e7f6f7eea48f945794c322607a140cd"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Level1_8cpp.html#a1e7f6f7eea48f945794c322607a140cd">DEFAULT_LAYER</a> = 1</td></tr>
+<tr class="separator:a1e7f6f7eea48f945794c322607a140cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbe3970fef6c64f3d55d3dd33c0887a4"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Level1_8cpp.html#abbe3970fef6c64f3d55d3dd33c0887a4">DEFAULT_SPEED</a> = 100</td></tr>
+<tr class="separator:abbe3970fef6c64f3d55d3dd33c0887a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11a9ffd3e8a3c1d5c33375e2ed1c7ca2"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Level1_8cpp.html#a11a9ffd3e8a3c1d5c33375e2ed1c7ca2">DEFAULT_ROW</a> = 1</td></tr>
+<tr class="separator:a11a9ffd3e8a3c1d5c33375e2ed1c7ca2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5df61c208249e211e3f9618b23c1e806"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Level1_8cpp.html#a5df61c208249e211e3f9618b23c1e806">DEFAULT_PLAYER_WIDTH</a> = 15</td></tr>
+<tr class="separator:a5df61c208249e211e3f9618b23c1e806"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9a75ddb2c0880a66d4207546a5fc800"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="Level1_8cpp.html#af9a75ddb2c0880a66d4207546a5fc800">DEFAULT_PLAYER_HEIGHT</a> = 17</td></tr>
+<tr class="separator:af9a75ddb2c0880a66d4207546a5fc800"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a8a947a865e33117b7dfc66b683592ed8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a947a865e33117b7dfc66b683592ed8">&#9670;&nbsp;</a></span>LoadAnimatedSprite()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LoadAnimatedSprite </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; platformer_engine::AnimatedSprite &gt; &amp;&#160;</td>
+          <td class="paramname"><em>spriteList</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>spriteId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>path</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>spriteWidth</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>spriteHeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>frameCount</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a1e7f6f7eea48f945794c322607a140cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e7f6f7eea48f945794c322607a140cd">&#9670;&nbsp;</a></span>DEFAULT_LAYER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int DEFAULT_LAYER = 1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af9a75ddb2c0880a66d4207546a5fc800"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9a75ddb2c0880a66d4207546a5fc800">&#9670;&nbsp;</a></span>DEFAULT_PLAYER_HEIGHT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int DEFAULT_PLAYER_HEIGHT = 17</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5df61c208249e211e3f9618b23c1e806"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5df61c208249e211e3f9618b23c1e806">&#9670;&nbsp;</a></span>DEFAULT_PLAYER_WIDTH</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int DEFAULT_PLAYER_WIDTH = 15</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a11a9ffd3e8a3c1d5c33375e2ed1c7ca2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11a9ffd3e8a3c1d5c33375e2ed1c7ca2">&#9670;&nbsp;</a></span>DEFAULT_ROW</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int DEFAULT_ROW = 1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abbe3970fef6c64f3d55d3dd33c0887a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbe3970fef6c64f3d55d3dd33c0887a4">&#9670;&nbsp;</a></span>DEFAULT_SPEED</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int DEFAULT_SPEED = 100</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+</div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
 Generated by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1
