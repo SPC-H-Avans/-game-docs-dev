@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1475;
+var viewWidth = 1472;
 var viewHeight = 207;
 var sectionId = 'dynsection-0';
 </script>
@@ -142,16 +142,16 @@ var sectionId = 'dynsection-0';
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:title=" ">
-<polygon fill="none" stroke="#bfbfbf" points="1306.5,-123.5 1306.5,-142.5 1466.5,-142.5 1466.5,-123.5 1306.5,-123.5"/>
-<text text-anchor="middle" x="1386.5" y="-130.5" font-family="Helvetica,sans-Serif" font-size="10.00">Director/GameObjectDirector.hpp</text>
+<polygon fill="none" stroke="#bfbfbf" points="1305.5,-123.5 1305.5,-142.5 1463.5,-142.5 1463.5,-123.5 1305.5,-123.5"/>
+<text text-anchor="middle" x="1384.5" y="-130.5" font-family="Helvetica,sans-Serif" font-size="10.00">Director/GameObjectFactory.hpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M732.76,-184.97C833.99,-178.38 1079.51,-161.88 1296.47,-143.07"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1296.8,-146.55 1306.46,-142.2 1296.19,-139.58 1296.8,-146.55"/>
+<path fill="none" stroke="midnightblue" d="M732.76,-185C833.95,-178.49 1079.29,-162.13 1295.07,-143.2"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1295.67,-146.66 1305.32,-142.29 1295.05,-139.68 1295.67,-146.66"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
