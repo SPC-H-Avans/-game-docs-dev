@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['default_5flayer_17',['DEFAULT_LAYER',['../Level1_8cpp.html#a1e7f6f7eea48f945794c322607a140cd',1,'Level1.cpp']]],
-  ['default_5fplayer_5fheight_18',['DEFAULT_PLAYER_HEIGHT',['../Level1_8cpp.html#af9a75ddb2c0880a66d4207546a5fc800',1,'Level1.cpp']]],
-  ['default_5fplayer_5fwidth_19',['DEFAULT_PLAYER_WIDTH',['../Level1_8cpp.html#a5df61c208249e211e3f9618b23c1e806',1,'Level1.cpp']]],
-  ['default_5frow_20',['DEFAULT_ROW',['../Level1_8cpp.html#a11a9ffd3e8a3c1d5c33375e2ed1c7ca2',1,'Level1.cpp']]],
-  ['default_5fspeed_21',['DEFAULT_SPEED',['../Level1_8cpp.html#abbe3970fef6c64f3d55d3dd33c0887a4',1,'Level1.cpp']]]
+  ['default_5ffont_5fcolour_18',['DEFAULT_FONT_COLOUR',['../Game_8cpp.html#a5f793e724e7d97f847dcab387e713ada',1,'Game.cpp']]],
+  ['default_5ffont_5fsize_19',['DEFAULT_FONT_SIZE',['../Game_8cpp.html#af2ac60e92404fdb9d949e7f4a31444cd',1,'Game.cpp']]],
+  ['default_5flayer_20',['DEFAULT_LAYER',['../classLevel.html#ac35dfd548bde3690273fea75d9c6f590',1,'Level']]],
+  ['default_5fplayer_5fheight_21',['DEFAULT_PLAYER_HEIGHT',['../classLevel.html#a59f0c3909448c3a38603c8c88d902975',1,'Level']]],
+  ['default_5fplayer_5fwidth_22',['DEFAULT_PLAYER_WIDTH',['../classLevel.html#a3a589d877322c639e4b44f721b99194b',1,'Level']]],
+  ['default_5frow_23',['DEFAULT_ROW',['../classLevel.html#a32170f07b2c39dd559009f85072cf4ef',1,'Level']]],
+  ['default_5fspeed_24',['DEFAULT_SPEED',['../classLevel.html#ac047ec5fdf6a56a9548ffc3118abc191',1,'Level']]]
 ];
