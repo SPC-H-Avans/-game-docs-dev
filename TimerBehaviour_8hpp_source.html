@@ -84,23 +84,26 @@ $(function() {
 <div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="classPlatformerGame_1_1TimerBehaviour.html#ac40a9a0edd15e556534c3fea7923c2d0">   13</a></span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1TimerBehaviour.html#ac40a9a0edd15e556534c3fea7923c2d0">serialize</a>(archive &amp;ar, <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="comment">/*version*/</span>) {</div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;            ar &amp; boost::serialization::base_object&lt;BehaviourScript, TimerBehaviour&gt;(*<span class="keyword">this</span>);</div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;            boost::serialization::void_cast_register&lt;TimerBehaviour, BehaviourScript&gt;();</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;        }</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        <a class="code" href="classPlatformerGame_1_1TimerBehaviour.html#a546d5d90a835e27c67847be66a53a671">TimerBehaviour</a>(<span class="keywordtype">int</span> milliseconds, std::function&lt;<span class="keywordtype">void</span>()&gt; action);</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1TimerBehaviour.html#a153057de433a7c324057ff822eec6042">OnStart</a>() <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        <span class="keywordtype">int</span> _sleepMilliSeconds;</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        std::function&lt;void()&gt; _action;</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    };</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;} <span class="comment">//namespace PlatformerGame</span></div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160; </div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160; </div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//PLATFORMER_GAME_TIMERBEHAVIOUR_HPP</span></div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;            ar &amp; _sleepMilliSeconds;</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        }</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;        <a class="code" href="classPlatformerGame_1_1TimerBehaviour.html#adb42763a11c4b8492ac07d3e94e94261">TimerBehaviour</a>();</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        <a class="code" href="classPlatformerGame_1_1TimerBehaviour.html#adb42763a11c4b8492ac07d3e94e94261">TimerBehaviour</a>(<span class="keywordtype">int</span> milliseconds, std::function&lt;<span class="keywordtype">void</span>()&gt; action);</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160; </div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classPlatformerGame_1_1TimerBehaviour.html#a153057de433a7c324057ff822eec6042">OnStart</a>() <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;        <span class="keywordtype">int</span> _sleepMilliSeconds;</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        std::function&lt;void()&gt; _action;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    };</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;} <span class="comment">//namespace PlatformerGame</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="preprocessor">#endif </span><span class="comment">//PLATFORMER_GAME_TIMERBEHAVIOUR_HPP</span></div>
 <div class="ttc" id="aclassPlatformerGame_1_1TimerBehaviour_html"><div class="ttname"><a href="classPlatformerGame_1_1TimerBehaviour.html">PlatformerGame::TimerBehaviour</a></div><div class="ttdef"><b>Definition:</b> TimerBehaviour.hpp:10</div></div>
 <div class="ttc" id="aclassPlatformerGame_1_1TimerBehaviour_html_a153057de433a7c324057ff822eec6042"><div class="ttname"><a href="classPlatformerGame_1_1TimerBehaviour.html#a153057de433a7c324057ff822eec6042">PlatformerGame::TimerBehaviour::OnStart</a></div><div class="ttdeci">void OnStart() override</div><div class="ttdef"><b>Definition:</b> TimerBehaviour.cpp:10</div></div>
-<div class="ttc" id="aclassPlatformerGame_1_1TimerBehaviour_html_a546d5d90a835e27c67847be66a53a671"><div class="ttname"><a href="classPlatformerGame_1_1TimerBehaviour.html#a546d5d90a835e27c67847be66a53a671">PlatformerGame::TimerBehaviour::TimerBehaviour</a></div><div class="ttdeci">TimerBehaviour(int milliseconds, std::function&lt; void()&gt; action)</div><div class="ttdef"><b>Definition:</b> TimerBehaviour.cpp:8</div></div>
 <div class="ttc" id="aclassPlatformerGame_1_1TimerBehaviour_html_ac40a9a0edd15e556534c3fea7923c2d0"><div class="ttname"><a href="classPlatformerGame_1_1TimerBehaviour.html#ac40a9a0edd15e556534c3fea7923c2d0">PlatformerGame::TimerBehaviour::serialize</a></div><div class="ttdeci">void serialize(archive &amp;ar, const unsigned)</div><div class="ttdef"><b>Definition:</b> TimerBehaviour.hpp:13</div></div>
+<div class="ttc" id="aclassPlatformerGame_1_1TimerBehaviour_html_adb42763a11c4b8492ac07d3e94e94261"><div class="ttname"><a href="classPlatformerGame_1_1TimerBehaviour.html#adb42763a11c4b8492ac07d3e94e94261">PlatformerGame::TimerBehaviour::TimerBehaviour</a></div><div class="ttdeci">TimerBehaviour()</div><div class="ttdef"><b>Definition:</b> TimerBehaviour.cpp:19</div></div>
 <div class="ttc" id="anamespacePlatformerGame_html"><div class="ttname"><a href="namespacePlatformerGame.html">PlatformerGame</a></div><div class="ttdef"><b>Definition:</b> Game.cpp:15</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
