@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['horizontal_5fflip_5fsuffix_233',['HORIZONTAL_FLIP_SUFFIX',['../namespaceconstants.html#a31dc68119d195b4f9fd843ce217884b5',1,'constants']]]
+  ['fullscreen_228',['FULLSCREEN',['../Game_8cpp.html#afc0d6eb5c09b626ddb38a42ddcbf50dd',1,'Game.cpp']]]
 ];

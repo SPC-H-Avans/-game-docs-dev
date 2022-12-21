@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['tileheight_246',['tileHeight',['../structSpriteSheetInfo.html#ad30d022456adf1d25bc4d42734cd72b5',1,'SpriteSheetInfo']]],
-  ['tilesize_247',['TILESIZE',['../TileConfig_8hpp.html#ad68df360ff9a3da33f421efed5dbc4be',1,'TileConfig.hpp']]],
-  ['tilewidth_248',['tileWidth',['../structSpriteSheetInfo.html#a5d97bba492d8f0e5444e22a26741cdb5',1,'SpriteSheetInfo']]],
-  ['timer_5fticks_249',['TIMER_TICKS',['../StarMarioState_8hpp.html#af71d913c87e39ef91674644a3c07d164',1,'StarMarioState.hpp']]]
+  ['sheetpos_241',['sheetPos',['../structSpriteInfo.html#a5d7ad95808ec91ea8a74c513c8fecef2',1,'SpriteInfo']]]
 ];

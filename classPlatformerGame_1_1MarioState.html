@@ -78,13 +78,13 @@ $(function() {
 <div class="dynheader">
 Inheritance diagram for PlatformerGame::MarioState:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classPlatformerGame_1_1MarioState__inherit__graph.svg" width="424" height="566"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classPlatformerGame_1_1MarioState__inherit__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 <div class="dynheader">
 Collaboration diagram for PlatformerGame::MarioState:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classPlatformerGame_1_1MarioState__coll__graph.svg" width="210" height="279"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classPlatformerGame_1_1MarioState__coll__graph.svg" width="198" height="323"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -97,8 +97,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5de3295f589eba843dc8ed2fed0e3f4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a14c0215f6642fc88479745ad73121ff5"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlatformerGame_1_1MarioState.html#a14c0215f6642fc88479745ad73121ff5">RegisterInput</a> (std::shared_ptr&lt; spic::GameObject &gt; player, std::unique_ptr&lt; <a class="el" href="classPlatformerGame_1_1MarioState.html">MarioState</a> &gt; &amp;currentState)=0</td></tr>
 <tr class="separator:a14c0215f6642fc88479745ad73121ff5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09a2f24067e4a90d8d6f3cd6a7f6a91c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlatformerGame_1_1MarioState.html#a09a2f24067e4a90d8d6f3cd6a7f6a91c">TakeDamage</a> ()=0</td></tr>
-<tr class="separator:a09a2f24067e4a90d8d6f3cd6a7f6a91c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5923444db3e9ee25878bd455a1c62b7"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlatformerGame_1_1MarioState.html#aa5923444db3e9ee25878bd455a1c62b7">TouchEnemy</a> (std::shared_ptr&lt; spic::GameObject &gt; player, Collision collision)=0</td></tr>
+<tr class="separator:aa5923444db3e9ee25878bd455a1c62b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8a54281dd58ad8033beb080e5f728601"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlatformerGame_1_1MarioState.html#a8a54281dd58ad8033beb080e5f728601">~MarioState</a> ()=default</td></tr>
 <tr class="separator:a8a54281dd58ad8033beb080e5f728601"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -240,8 +240,8 @@ template&lt;typename archive &gt; </div>
 
 </div>
 </div>
-<a id="a09a2f24067e4a90d8d6f3cd6a7f6a91c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09a2f24067e4a90d8d6f3cd6a7f6a91c">&#9670;&nbsp;</a></span>TakeDamage()</h2>
+<a id="aa5923444db3e9ee25878bd455a1c62b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5923444db3e9ee25878bd455a1c62b7">&#9670;&nbsp;</a></span>TouchEnemy()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -250,10 +250,21 @@ template&lt;typename archive &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void PlatformerGame::MarioState::TakeDamage </td>
+          <td class="memname">virtual void PlatformerGame::MarioState::TouchEnemy </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::shared_ptr&lt; spic::GameObject &gt;&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">Collision&#160;</td>
+          <td class="paramname"><em>collision</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -263,7 +274,7 @@ template&lt;typename archive &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classPlatformerGame_1_1StarMarioState.html#a9c481b6a9f2950486658bc79f1e9d4e9">PlatformerGame::StarMarioState</a>, and <a class="el" href="classPlatformerGame_1_1SmallMarioState.html#a650d1d81ff19a7af9746f6bd98155073">PlatformerGame::SmallMarioState</a>.</p>
+<p>Implemented in <a class="el" href="classPlatformerGame_1_1StarMarioState.html#a7dd8c4c8231f3ec010cb6145f3d14ba5">PlatformerGame::StarMarioState</a>, and <a class="el" href="classPlatformerGame_1_1SmallMarioState.html#ab46b954e2d3304fb3f0629c839955bc4">PlatformerGame::SmallMarioState</a>.</p>
 
 </div>
 </div>
