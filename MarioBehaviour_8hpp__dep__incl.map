@@ -1,9 +1,10 @@
 <map id="src/Scripts/MarioBehaviour.hpp" name="src/Scripts/MarioBehaviour.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="503,5,705,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="607,5,809,32"/>
 <area shape="rect" id="node2" href="$Level_8hpp.html" title=" " alt="" coords="199,87,382,114"/>
 <area shape="rect" id="node8" href="$NetworkingClient_8cpp.html" title=" " alt="" coords="406,80,586,121"/>
-<area shape="rect" id="node9" href="$MarioBehaviour_8cpp.html" title=" " alt="" coords="611,87,813,114"/>
-<area shape="rect" id="node10" href="$StarBehaviour_8cpp.html" title=" " alt="" coords="837,87,1032,114"/>
+<area shape="rect" id="node9" href="$FlagBehaviour_8cpp.html" title=" " alt="" coords="610,87,806,114"/>
+<area shape="rect" id="node10" href="$MarioBehaviour_8cpp.html" title=" " alt="" coords="831,87,1033,114"/>
+<area shape="rect" id="node11" href="$StarBehaviour_8cpp.html" title=" " alt="" coords="1057,87,1252,114"/>
 <area shape="rect" id="node3" href="$Level1_8hpp.html" title=" " alt="" coords="89,169,279,196"/>
 <area shape="rect" id="node6" href="$Level2_8hpp.html" title=" " alt="" coords="303,169,492,196"/>
 <area shape="rect" id="node4" href="$Game_8cpp.html" title=" " alt="" coords="219,244,362,271"/>

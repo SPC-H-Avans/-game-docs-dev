@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 778;
+var viewWidth = 943;
 var viewHeight = 207;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,8 +58,8 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="373,-179.5 373,-198.5 525,-198.5 525,-179.5 373,-179.5"/>
-<text text-anchor="middle" x="449" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/MarioBehaviour.hpp</text>
+<polygon fill="#bfbfbf" stroke="black" points="451,-179.5 451,-198.5 603,-198.5 603,-179.5 451,-179.5"/>
+<text text-anchor="middle" x="527" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/MarioBehaviour.hpp</text>
 </a>
 </g>
 </g>
@@ -75,8 +75,8 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M405.43,-176.97C359.8,-165.41 289.11,-147.52 247.61,-137.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="404.78,-180.41 415.33,-179.48 406.5,-173.63 404.78,-180.41"/>
+<path fill="none" stroke="midnightblue" d="M472,-177.55C411.37,-166.02 314.97,-147.69 258.76,-137.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="471.68,-181.05 482.15,-179.48 472.98,-174.17 471.68,-181.05"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -91,38 +91,53 @@ var sectionId = 'dynsection-1';
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M429.22,-173.47C416.39,-164.05 399.77,-151.84 387.09,-142.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="427.26,-176.38 437.39,-179.48 431.41,-170.73 427.26,-176.38"/>
+<path fill="none" stroke="midnightblue" d="M494.53,-175.85C468.7,-166.18 432.53,-152.65 405.47,-142.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="493.63,-179.25 504.22,-179.48 496.08,-172.69 493.63,-179.25"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="MarioBehaviour_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="454,-118 454,-137 606,-137 606,-118 454,-118"/>
-<text text-anchor="middle" x="530" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/MarioBehaviour.cpp</text>
+<g id="a_node9"><a xlink:href="FlagBehaviour_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="453.5,-118 453.5,-137 600.5,-137 600.5,-118 453.5,-118"/>
+<text text-anchor="middle" x="527" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/FlagBehaviour.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node9 -->
 <g id="edge9" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M469.02,-173.29C484.56,-161.88 505.55,-146.46 518.42,-137.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="466.59,-170.73 460.61,-179.48 470.74,-176.38 466.59,-170.73"/>
+<path fill="none" stroke="midnightblue" d="M527,-169.32C527,-158.5 527,-145.4 527,-137.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="523.5,-169.48 527,-179.48 530.5,-169.48 523.5,-169.48"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="StarBehaviour_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="624,-118 624,-137 770,-137 770,-118 624,-118"/>
-<text text-anchor="middle" x="697" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/StarBehaviour.cpp</text>
+<g id="a_node10"><a xlink:href="MarioBehaviour_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="619,-118 619,-137 771,-137 771,-118 619,-118"/>
+<text text-anchor="middle" x="695" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/MarioBehaviour.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M494.37,-177.11C542.51,-165.57 617.55,-147.56 661.53,-137.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="493.44,-173.74 484.53,-179.48 495.07,-180.55 493.44,-173.74"/>
+<path fill="none" stroke="midnightblue" d="M560.65,-176.08C593.3,-164.52 642.05,-147.25 670.97,-137.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="559.33,-172.84 551.07,-179.48 561.67,-179.44 559.33,-172.84"/>
+</g>
+<!-- Node11 -->
+<g id="node11" class="node">
+<title>Node11</title>
+<g id="a_node11"><a xlink:href="StarBehaviour_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="789,-118 789,-137 935,-137 935,-118 789,-118"/>
+<text text-anchor="middle" x="862" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">src/Scripts/StarBehaviour.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node11 -->
+<g id="edge11" class="edge">
+<title>Node1&#45;&gt;Node11</title>
+<path fill="none" stroke="midnightblue" d="M585.06,-177.69C649.91,-166.17 753.68,-147.74 814.09,-137.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="584.23,-174.28 575,-179.48 585.46,-181.17 584.23,-174.28"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
