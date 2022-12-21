@@ -1,13 +1,19 @@
 var searchData=
 [
-  ['takedamage_96',['TakeDamage',['../classPlatformerGame_1_1MarioState.html#a09a2f24067e4a90d8d6f3cd6a7f6a91c',1,'PlatformerGame::MarioState::TakeDamage()'],['../classPlatformerGame_1_1SmallMarioState.html#a650d1d81ff19a7af9746f6bd98155073',1,'PlatformerGame::SmallMarioState::TakeDamage()'],['../classPlatformerGame_1_1StarMarioState.html#a9c481b6a9f2950486658bc79f1e9d4e9',1,'PlatformerGame::StarMarioState::TakeDamage()']]],
-  ['tileconfig_97',['TileConfig',['../classTileConfig.html',1,'']]],
-  ['tileconfig_2ehpp_98',['TileConfig.hpp',['../TileConfig_8hpp.html',1,'']]],
-  ['tileheight_99',['tileHeight',['../structSpriteSheetInfo.html#ad30d022456adf1d25bc4d42734cd72b5',1,'SpriteSheetInfo']]],
-  ['tilesize_100',['TILESIZE',['../TileConfig_8hpp.html#ad68df360ff9a3da33f421efed5dbc4be',1,'TileConfig.hpp']]],
-  ['tilewidth_101',['tileWidth',['../structSpriteSheetInfo.html#a5d97bba492d8f0e5444e22a26741cdb5',1,'SpriteSheetInfo']]],
-  ['timer_5fticks_102',['TIMER_TICKS',['../StarMarioState_8hpp.html#af71d913c87e39ef91674644a3c07d164',1,'StarMarioState.hpp']]],
-  ['timerbehaviour_103',['TimerBehaviour',['../classPlatformerGame_1_1TimerBehaviour.html',1,'PlatformerGame::TimerBehaviour'],['../classPlatformerGame_1_1TimerBehaviour.html#a546d5d90a835e27c67847be66a53a671',1,'PlatformerGame::TimerBehaviour::TimerBehaviour()']]],
-  ['timerbehaviour_2ecpp_104',['TimerBehaviour.cpp',['../TimerBehaviour_8cpp.html',1,'']]],
-  ['timerbehaviour_2ehpp_105',['TimerBehaviour.hpp',['../TimerBehaviour_8hpp.html',1,'']]]
+  ['serialize_88',['serialize',['../classPlatformerGame_1_1CoinCounter.html#a28fe8b44bbf97faedb3345e9e09fd51c',1,'PlatformerGame::CoinCounter::serialize()'],['../classPlatformerGame_1_1TimerBehaviour.html#ac40a9a0edd15e556534c3fea7923c2d0',1,'PlatformerGame::TimerBehaviour::serialize()'],['../classPlatformerGame_1_1StarBehaviour.html#a7876cd62f50b6c90a0100496ca0d3bdf',1,'PlatformerGame::StarBehaviour::serialize()'],['../classPlatformerGame_1_1StarMarioState.html#aae850e3fd98629917f77bd845b4c3477',1,'PlatformerGame::StarMarioState::serialize()'],['../classPlatformerGame_1_1SmallMarioState.html#a6755cfdf7bfcd573a2bc41dc8af2c570',1,'PlatformerGame::SmallMarioState::serialize()'],['../classPlatformerGame_1_1MarioState.html#a62471b2b60f16b3573166b6461a6c21f',1,'PlatformerGame::MarioState::serialize()'],['../classPlatformerGame_1_1MarioBehaviour.html#a5f94bdfc9d800d96485ba194ce2fc7bd',1,'PlatformerGame::MarioBehaviour::serialize()'],['../classPlatformerGame_1_1FlagBehaviour.html#acbc027684caae5d013e6b78fd489d7c6',1,'PlatformerGame::FlagBehaviour::serialize()'],['../classEnemyAttackBehaviour.html#a55d308abd742a719be488e41a1ea0922',1,'EnemyAttackBehaviour::serialize()'],['../classPlatformerGame_1_1DynamicAnimationBehaviour.html#aa7442b7d8913a140afdb5620a16eacd7',1,'PlatformerGame::DynamicAnimationBehaviour::serialize()'],['../classPlatformerGame_1_1CoinBehaviour.html#aff340096596bc76747c75695ee20b8dd',1,'PlatformerGame::CoinBehaviour::serialize()']]],
+  ['setstate_89',['SetState',['../classPlatformerGame_1_1MarioBehaviour.html#aeb0e1ef6bd2e70d7885fefff06ca6ab8',1,'PlatformerGame::MarioBehaviour']]],
+  ['sheetpos_90',['sheetPos',['../structSpriteInfo.html#a5d7ad95808ec91ea8a74c513c8fecef2',1,'SpriteInfo']]],
+  ['sheetpos_91',['SheetPos',['../structSheetPos.html',1,'']]],
+  ['smallmariostate_92',['SmallMarioState',['../classPlatformerGame_1_1SmallMarioState.html',1,'PlatformerGame']]],
+  ['smallmariostate_2ecpp_93',['SmallMarioState.cpp',['../SmallMarioState_8cpp.html',1,'']]],
+  ['smallmariostate_2ehpp_94',['SmallMarioState.hpp',['../SmallMarioState_8hpp.html',1,'']]],
+  ['spriteinfo_95',['SpriteInfo',['../structSpriteInfo.html',1,'']]],
+  ['sprites_2ehpp_96',['Sprites.hpp',['../Sprites_8hpp.html',1,'']]],
+  ['spritesheetinfo_97',['SpriteSheetInfo',['../structSpriteSheetInfo.html',1,'']]],
+  ['starbehaviour_98',['StarBehaviour',['../classPlatformerGame_1_1StarBehaviour.html',1,'PlatformerGame']]],
+  ['starbehaviour_2ecpp_99',['StarBehaviour.cpp',['../StarBehaviour_8cpp.html',1,'']]],
+  ['starbehaviour_2ehpp_100',['StarBehaviour.hpp',['../StarBehaviour_8hpp.html',1,'']]],
+  ['starmariostate_101',['StarMarioState',['../classPlatformerGame_1_1StarMarioState.html',1,'PlatformerGame']]],
+  ['starmariostate_2ecpp_102',['StarMarioState.cpp',['../StarMarioState_8cpp.html',1,'']]],
+  ['starmariostate_2ehpp_103',['StarMarioState.hpp',['../StarMarioState_8hpp.html',1,'']]]
 ];

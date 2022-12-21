@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['sheetpos_130',['SheetPos',['../structSheetPos.html',1,'']]],
-  ['smallmariostate_131',['SmallMarioState',['../classPlatformerGame_1_1SmallMarioState.html',1,'PlatformerGame']]],
-  ['spriteinfo_132',['SpriteInfo',['../structSpriteInfo.html',1,'']]],
-  ['spritesheetinfo_133',['SpriteSheetInfo',['../structSpriteSheetInfo.html',1,'']]],
-  ['starbehaviour_134',['StarBehaviour',['../classPlatformerGame_1_1StarBehaviour.html',1,'PlatformerGame']]],
-  ['starmariostate_135',['StarMarioState',['../classPlatformerGame_1_1StarMarioState.html',1,'PlatformerGame']]]
+  ['mainmenu_135',['MainMenu',['../classMainMenu.html',1,'']]],
+  ['mariobehaviour_136',['MarioBehaviour',['../classPlatformerGame_1_1MarioBehaviour.html',1,'PlatformerGame']]],
+  ['mariostate_137',['MarioState',['../classPlatformerGame_1_1MarioState.html',1,'PlatformerGame']]]
 ];

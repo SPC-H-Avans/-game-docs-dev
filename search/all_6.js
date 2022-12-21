@@ -1,10 +1,7 @@
 var searchData=
 [
-  ['game_29',['Game',['../classPlatformerGame_1_1Game.html#ae030fe8b580ea604b3da2ea7ce250a18',1,'PlatformerGame::Game::Game()'],['../classPlatformerGame_1_1Game.html',1,'PlatformerGame::Game']]],
-  ['game_2ecpp_30',['Game.cpp',['../Game_8cpp.html',1,'']]],
-  ['game_2ehpp_31',['Game.hpp',['../Game_8hpp.html',1,'']]],
-  ['gameoverscene_32',['GameOverScene',['../classGameOverScene.html',1,'']]],
-  ['gameoverscene_2ecpp_33',['GameOverScene.cpp',['../GameOverScene_8cpp.html',1,'']]],
-  ['gameoverscene_2ehpp_34',['GameOverScene.hpp',['../GameOverScene_8hpp.html',1,'']]],
-  ['getuiobject_35',['GetUIObject',['../classPlatformerGame_1_1CoinCounter.html#aa3bb5fbf47d798bd6eb68c321c888bae',1,'PlatformerGame::CoinCounter']]]
+  ['flagbehaviour_33',['FlagBehaviour',['../classPlatformerGame_1_1FlagBehaviour.html',1,'PlatformerGame']]],
+  ['flagbehaviour_2ecpp_34',['FlagBehaviour.cpp',['../FlagBehaviour_8cpp.html',1,'']]],
+  ['flagbehaviour_2ehpp_35',['FlagBehaviour.hpp',['../FlagBehaviour_8hpp.html',1,'']]],
+  ['fullscreen_36',['FULLSCREEN',['../Game_8cpp.html#afc0d6eb5c09b626ddb38a42ddcbf50dd',1,'Game.cpp']]]
 ];

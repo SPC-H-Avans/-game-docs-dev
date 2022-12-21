@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['walk_5fsprite_5fid_109',['WALK_SPRITE_ID',['../namespaceconstants.html#ab003744d95a03dc479f444256b117eee',1,'constants']]],
-  ['walk_5fstar_5fsprite_5fid_110',['WALK_STAR_SPRITE_ID',['../namespaceconstants.html#a0ba45e68963e1e723e8cfd630faa2f7a',1,'constants']]],
-  ['world1_111',['World1',['../classTileConfig.html#ae97ef2bc44aa095d0d93714c4116e692',1,'TileConfig']]]
+  ['velocity_5fmargin_114',['VELOCITY_MARGIN',['../DynamicAnimationBehaviour_8cpp.html#a9be28a8b9da3cb69f0f3a913985124c2',1,'VELOCITY_MARGIN():&#160;DynamicAnimationBehaviour.cpp'],['../SmallMarioState_8cpp.html#a9be28a8b9da3cb69f0f3a913985124c2',1,'VELOCITY_MARGIN():&#160;SmallMarioState.cpp'],['../StarMarioState_8cpp.html#a9be28a8b9da3cb69f0f3a913985124c2',1,'VELOCITY_MARGIN():&#160;StarMarioState.cpp']]],
+  ['view_5fheight_115',['VIEW_HEIGHT',['../main_8cpp.html#a1117b50fc1a20340daf435b1a013272f',1,'main.cpp']]],
+  ['view_5fwidth_116',['VIEW_WIDTH',['../main_8cpp.html#a8a4319a26d792cad45f64f13d8f65b25',1,'main.cpp']]]
 ];

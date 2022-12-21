@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['tileconfig_136',['TileConfig',['../classTileConfig.html',1,'']]],
-  ['timerbehaviour_137',['TimerBehaviour',['../classPlatformerGame_1_1TimerBehaviour.html',1,'PlatformerGame']]]
+  ['networkingclient_138',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html',1,'PlatformerGame']]],
+  ['networkingserver_139',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html',1,'PlatformerGame']]]
 ];

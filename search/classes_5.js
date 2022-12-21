@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['networkingclient_128',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html',1,'PlatformerGame']]],
-  ['networkingserver_129',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html',1,'PlatformerGame']]]
+  ['level_132',['Level',['../classLevel.html',1,'']]],
+  ['level1_133',['Level1',['../classLevel1.html',1,'']]],
+  ['level2_134',['Level2',['../classLevel2.html',1,'']]]
 ];

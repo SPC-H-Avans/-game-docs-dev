@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['_7emariostate_114',['~MarioState',['../classPlatformerGame_1_1MarioState.html#a8a54281dd58ad8033beb080e5f728601',1,'PlatformerGame::MarioState']]],
-  ['_7enetworkingclient_115',['~NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#aef5ce0bf1215eabaffd6443a89bee4eb',1,'PlatformerGame::NetworkingClient']]],
-  ['_7enetworkingserver_116',['~NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#a461a197fe0ca5de86cca42b1c64daaa6',1,'PlatformerGame::NetworkingServer']]]
+  ['y_121',['y',['../structSheetPos.html#a4f35411213a363f3fe22425f671aa587',1,'SheetPos']]]
 ];

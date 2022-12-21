@@ -1,10 +1,14 @@
 var searchData=
 [
-  ['networkingclient_65',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#ab66fbd13d2e0d61af9619c11ecc0eeab',1,'PlatformerGame::NetworkingClient::NetworkingClient()'],['../classPlatformerGame_1_1NetworkingClient.html',1,'PlatformerGame::NetworkingClient']]],
-  ['networkingclient_2ecpp_66',['NetworkingClient.cpp',['../NetworkingClient_8cpp.html',1,'']]],
-  ['networkingclient_2ehpp_67',['NetworkingClient.hpp',['../NetworkingClient_8hpp.html',1,'']]],
-  ['networkingserver_68',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#aaa1221315e4118084ab8fc2f5096ec35',1,'PlatformerGame::NetworkingServer::NetworkingServer()'],['../classPlatformerGame_1_1NetworkingServer.html',1,'PlatformerGame::NetworkingServer']]],
-  ['networkingserver_2ecpp_69',['NetworkingServer.cpp',['../NetworkingServer_8cpp.html',1,'']]],
-  ['networkingserver_2ehpp_70',['NetworkingServer.hpp',['../NetworkingServer_8hpp.html',1,'']]],
-  ['numberinsheet_71',['numberInSheet',['../structSpriteInfo.html#ada7dc73a67b53a6b6f9dc9d776f1f841',1,'SpriteInfo']]]
+  ['main_62',['main',['../main_8cpp.html#a06f94d40e970020f9fb9033734ad88a3',1,'main.cpp']]],
+  ['main_2ecpp_63',['main.cpp',['../main_8cpp.html',1,'']]],
+  ['mainmenu_64',['MainMenu',['../classMainMenu.html',1,'']]],
+  ['mainmenu_2ecpp_65',['MainMenu.cpp',['../MainMenu_8cpp.html',1,'']]],
+  ['mainmenu_2ehpp_66',['MainMenu.hpp',['../MainMenu_8hpp.html',1,'']]],
+  ['map1_67',['Map1',['../classTileConfig.html#a059ad8a0964032866316521da44700d0',1,'TileConfig']]],
+  ['mariobehaviour_68',['MarioBehaviour',['../classPlatformerGame_1_1MarioBehaviour.html',1,'PlatformerGame']]],
+  ['mariobehaviour_2ecpp_69',['MarioBehaviour.cpp',['../MarioBehaviour_8cpp.html',1,'']]],
+  ['mariobehaviour_2ehpp_70',['MarioBehaviour.hpp',['../MarioBehaviour_8hpp.html',1,'']]],
+  ['mariostate_71',['MarioState',['../classPlatformerGame_1_1MarioState.html',1,'PlatformerGame']]],
+  ['mariostate_2ehpp_72',['MarioState.hpp',['../MarioState_8hpp.html',1,'']]]
 ];

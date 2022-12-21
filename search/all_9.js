@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['jump_5fforce_40',['JUMP_FORCE',['../SmallMarioState_8cpp.html#a95e077c845bfa63b8f0763c8feeb3b27',1,'JUMP_FORCE():&#160;SmallMarioState.cpp'],['../StarMarioState_8cpp.html#a95e077c845bfa63b8f0763c8feeb3b27',1,'JUMP_FORCE():&#160;StarMarioState.cpp']]],
-  ['jump_5fsprite_5fid_41',['JUMP_SPRITE_ID',['../namespaceconstants.html#ab06ca7df9420859b65665ae2572195ac',1,'constants']]],
-  ['jump_5fstar_5fsprite_5fid_42',['JUMP_STAR_SPRITE_ID',['../namespaceconstants.html#af9adcd3051aabab32d0a4b47d76d51c2',1,'constants']]]
+  ['id_45',['id',['../structSpriteInfo.html#ade70602e8e8f78a8f3dddfaf5c580b01',1,'SpriteInfo']]],
+  ['idle_5fsprite_5fid_46',['IDLE_SPRITE_ID',['../namespaceconstants.html#ac87d0278d55363c8134a0e0cc6f4e9ad',1,'constants']]],
+  ['idle_5fstar_5fsprite_5fid_47',['IDLE_STAR_SPRITE_ID',['../namespaceconstants.html#a82de805b28974dd851b2bc1b234220f0',1,'constants']]]
 ];

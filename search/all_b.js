@@ -1,14 +1,14 @@
 var searchData=
 [
-  ['main_54',['main',['../main_8cpp.html#a06f94d40e970020f9fb9033734ad88a3',1,'main.cpp']]],
-  ['main_2ecpp_55',['main.cpp',['../main_8cpp.html',1,'']]],
-  ['mainmenu_56',['MainMenu',['../classMainMenu.html',1,'']]],
-  ['mainmenu_2ecpp_57',['MainMenu.cpp',['../MainMenu_8cpp.html',1,'']]],
-  ['mainmenu_2ehpp_58',['MainMenu.hpp',['../MainMenu_8hpp.html',1,'']]],
-  ['map1_59',['Map1',['../classTileConfig.html#a059ad8a0964032866316521da44700d0',1,'TileConfig']]],
-  ['mariobehaviour_60',['MarioBehaviour',['../classPlatformerGame_1_1MarioBehaviour.html',1,'PlatformerGame']]],
-  ['mariobehaviour_2ecpp_61',['MarioBehaviour.cpp',['../MarioBehaviour_8cpp.html',1,'']]],
-  ['mariobehaviour_2ehpp_62',['MarioBehaviour.hpp',['../MarioBehaviour_8hpp.html',1,'']]],
-  ['mariostate_63',['MarioState',['../classPlatformerGame_1_1MarioState.html',1,'PlatformerGame']]],
-  ['mariostate_2ehpp_64',['MarioState.hpp',['../MarioState_8hpp.html',1,'']]]
+  ['level_51',['Level',['../classLevel.html',1,'']]],
+  ['level_2ehpp_52',['Level.hpp',['../Level_8hpp.html',1,'']]],
+  ['level1_53',['Level1',['../classLevel1.html',1,'']]],
+  ['level1_2ecpp_54',['Level1.cpp',['../Level1_8cpp.html',1,'']]],
+  ['level1_2ehpp_55',['Level1.hpp',['../Level1_8hpp.html',1,'']]],
+  ['level2_56',['Level2',['../classLevel2.html',1,'']]],
+  ['level2_2ecpp_57',['Level2.cpp',['../Level2_8cpp.html',1,'']]],
+  ['level2_2ehpp_58',['Level2.hpp',['../Level2_8hpp.html',1,'']]],
+  ['loadanimatedsprite_59',['LoadAnimatedSprite',['../classLevel.html#a6b37f259472920e7b40c2df7e3187b42',1,'Level']]],
+  ['loadanimations_60',['LoadAnimations',['../classLevel.html#aeedfe031c17602e41235a00e5077881e',1,'Level']]],
+  ['logging_61',['LOGGING',['../Game_8cpp.html#a83c22bfda2eee0c7d7b2651b1c387815',1,'Game.cpp']]]
 ];

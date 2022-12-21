@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['onstart_193',['OnStart',['../classPlatformerGame_1_1TimerBehaviour.html#a153057de433a7c324057ff822eec6042',1,'PlatformerGame::TimerBehaviour']]],
-  ['ontriggerenter2d_194',['OnTriggerEnter2D',['../classPlatformerGame_1_1CoinBehaviour.html#aab45a3afa514293a125f45bfed0806c5',1,'PlatformerGame::CoinBehaviour::OnTriggerEnter2D()'],['../classPlatformerGame_1_1FlagBehaviour.html#a41a1cde1f975ccfa8b67fd6d15140869',1,'PlatformerGame::FlagBehaviour::OnTriggerEnter2D()'],['../classPlatformerGame_1_1MarioBehaviour.html#a2452b6c60eecdaa145ab19f75be3634b',1,'PlatformerGame::MarioBehaviour::OnTriggerEnter2D()'],['../classPlatformerGame_1_1StarBehaviour.html#a07c867b1af4a80b31ca39acf92c53fa1',1,'PlatformerGame::StarBehaviour::OnTriggerEnter2D()']]],
-  ['onupdate_195',['OnUpdate',['../classPlatformerGame_1_1MarioBehaviour.html#aadf75f44b4d8d007e858d7803a23fe72',1,'PlatformerGame::MarioBehaviour']]]
+  ['networkingclient_206',['NetworkingClient',['../classPlatformerGame_1_1NetworkingClient.html#ab66fbd13d2e0d61af9619c11ecc0eeab',1,'PlatformerGame::NetworkingClient']]],
+  ['networkingserver_207',['NetworkingServer',['../classPlatformerGame_1_1NetworkingServer.html#aaa1221315e4118084ab8fc2f5096ec35',1,'PlatformerGame::NetworkingServer']]]
 ];
